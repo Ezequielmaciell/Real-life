@@ -1,0 +1,59 @@
+# SimCityLife - Jogo de Simulação de Vida Real
+
+## Descrição
+**SimCityLife** é um jogo de simulação de vida real que permite aos jogadores criar e gerenciar suas próprias cidades virtuais. Os jogadores podem construir casas, desenvolver infraestruturas, e administrar os aspectos sociais e econômicos da vida urbana.
+
+## Características Principais
+- **Customização de Personagens:** Criação de avatares com opções detalhadas de aparência e personalidade.
+- **Construção e Gestão:** Construa casas, edifícios comerciais, parques e outros elementos urbanos.
+- **Interações Sociais:** Interaja com NPCs, desenvolva relacionamentos e crie uma comunidade vibrante.
+- **Simulação Econômica:** Gerencie recursos, orçamento da cidade, e desenvolvimento econômico.
+- **Ciclos de Dia e Noite:** Experimente a passagem do tempo com ciclos de dia e noite e diferentes condições climáticas.
+- **Eventos Aleatórios:** Enfrente desafios inesperados como desastres naturais e crises econômicas.
+
+## Requisitos de Sistema
+### Requisitos Mínimos
+- **SO:** Windows 10 / macOS 10.14
+- **Processador:** Intel Core i5-3470 / AMD FX-8350
+- **Memória:** 8 GB de RAM
+- **Placa de Vídeo:** NVIDIA GeForce GTX 660 / AMD Radeon HD 7870
+- **DirectX:** Versão 11
+- **Armazenamento:** 10 GB de espaço disponível
+
+### Requisitos Recomendados
+- **SO:** Windows 10 / macOS 11
+- **Processador:** Intel Core i7-6700K / AMD Ryzen 5 3600
+- **Memória:** 16 GB de RAM
+- **Placa de Vídeo:** NVIDIA GeForce GTX 1070 / AMD Radeon RX 580
+- **DirectX:** Versão 11
+- **Armazenamento:** 20 GB de espaço disponível
+
+## Como Jogar
+1. **Criação de Personagem:** Inicie criando seu personagem principal, personalizando aparência e atributos.
+2. **Construção da Cidade:** Utilize as ferramentas de construção para criar casas, ruas, e outras infraestruturas.
+3. **Gestão de Recursos:** Administre os recursos financeiros e materiais para manter a cidade funcionando.
+4. **Interação com NPCs:** Faça amizade com outros personagens e desenvolva uma rede social.
+5. **Progresso e Expansão:** Complete objetivos, enfrente desafios e expanda sua cidade.
+
+## Capturas de Tela
+![Imagem 1](link_para_imagem1.png)
+![Imagem 2](link_para_imagem2.png)
+
+## Links Úteis
+- [Site Oficial](http://www.simcitylife.com)
+- [Página no Steam](http://store.steampowered.com/simcitylife)
+
+## Desenvolvedor
+- **Empresa:** SimLife Studios
+- **Contato:** info@simlifestudios.com
+
+## Contribuições
+Se você deseja contribuir para o desenvolvimento do SimCityLife, siga os passos abaixo:
+1. Faça um fork do repositório.
+2. Crie um branch para sua feature (`git checkout -b feature/nome-da-feature`).
+3. Commit suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Envie para o branch (`git push origin feature/nome-da-feature`).
+5. Abra um Pull Request.
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
